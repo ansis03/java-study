@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b3b1db4-18ae-4465-91af-123954375221" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2yL5qZsD0ldFPsTcUXovOUrdakg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java Learning/java-basic/java-basic/java-basic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="4b3b1db4-18ae-4465-91af-123954375221" name="변경" comment="" />
+      <created>1749601205078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749601205078</updated>
+      <workItem from="1749601206133" duration="58000" />
+      <workItem from="1749606306622" duration="9000" />
+      <workItem from="1749610534058" duration="24000" />
+      <workItem from="1749718566864" duration="873000" />
+      <workItem from="1749736601592" duration="1499000" />
+      <workItem from="1750053199988" duration="562000" />
+      <workItem from="1750067564219" duration="2110000" />
+      <workItem from="1750215316882" duration="1277000" />
+      <workItem from="1750217660522" duration="166000" />
+      <workItem from="1750225921729" duration="757000" />
+      <workItem from="1750229113596" duration="143000" />
+      <workItem from="1750229281785" duration="24000" />
+      <workItem from="1750230006098" duration="2188000" />
+      <workItem from="1750304450887" duration="3593000" />
+      <workItem from="1750394608546" duration="798000" />
+      <workItem from="1750483280622" duration="723000" />
+      <workItem from="1750484102505" duration="5634000" />
+      <workItem from="1750500203341" duration="1350000" />
+      <workItem from="1750577257158" duration="866000" />
+      <workItem from="1750592551888" duration="2678000" />
+      <workItem from="1750650799979" duration="5067000" />
+      <workItem from="1750668521305" duration="787000" />
+      <workItem from="1750678920492" duration="431000" />
+      <workItem from="1750679361968" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>3</line>
+          <properties class="Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
